@@ -1,4 +1,3 @@
-import './App.css';
 import BurgerModel from './Components/BurgerModel';
 import { softShadows } from '@react-three/drei';
 
